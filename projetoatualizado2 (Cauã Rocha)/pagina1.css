@@ -1,0 +1,18 @@
+center{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: gold;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    
+}
+body{
+    background-color: green;
+}
+#cadastrase{
+    border: 6px solid ;
+    border-color: rgb(0, 128, 32);
+ border-radius:  10px ;
+ background-color: white
+}
